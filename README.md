@@ -278,42 +278,6 @@ Focused on identifying:
 
 ---
 
-## 📂 Repository Structure
-
-```
-widget-co-breach-investigation/
-│
-├── README.md                          # Main documentation
-├── docs/
-│   ├── Full_Investigation_Report.pdf  # Comprehensive findings report
-│   ├── Executive_Presentation.pdf     # Leadership presentation
-│   └── Technical_Documentation.md     # Detailed analysis methodology
-│
-├── dashboards/
-│   ├── breach_correlation.xml         # Dashboard 1: Breach events
-│   ├── malicious_activity.xml         # Dashboard 2: Threat detection
-│   └── executive_summary.xml          # Dashboard 3: High-level metrics
-│
-├── queries/
-│   ├── phishing_detection.spl         # DNS-based phishing queries
-│   ├── mfa_bypass_analysis.spl        # MFA anomaly detection
-│   ├── brute_force_detection.spl      # Failed login correlation
-│   ├── vault_access_audit.spl         # Password vault analysis
-│   └── privilege_escalation.spl       # Lateral movement tracking
-│
-├── evidence/
-│   ├── timeline.md                    # Complete attack timeline
-│   ├── iocs.md                        # Indicators of Compromise
-│   └── affected_accounts.md           # Compromised user details
-│
-└── images/
-    ├── dashboard_screenshots/         # Dashboard visualizations
-    ├── attack_timeline.png            # Visual timeline diagram
-    └── architecture_diagram.png       # Investigation architecture
-```
-
----
-
 ## 🚀 How to Use
 
 ### Prerequisites
